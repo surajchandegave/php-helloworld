@@ -1,1 +1,1 @@
-<?php echo("Hello World") ?>
+<?php echo("Hello World!!"); print_R($_SERVER['HTTP_HOST']); ?>
